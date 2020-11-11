@@ -1,4 +1,4 @@
-package com.hbhb.cw.relocationmange.vo;
+package com.hbhb.cw.relocation.vo;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;

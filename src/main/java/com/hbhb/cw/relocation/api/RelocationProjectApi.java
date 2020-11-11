@@ -1,4 +1,4 @@
-package com.hbhb.cw.relocationmange.api;
+package com.hbhb.cw.relocation.api;
 
 import org.springframework.web.bind.annotation.PutMapping;
 

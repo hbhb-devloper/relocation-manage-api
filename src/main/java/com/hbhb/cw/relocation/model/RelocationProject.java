@@ -1,4 +1,4 @@
-package com.hbhb.cw.relocationmange.model;
+package com.hbhb.cw.relocation.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
