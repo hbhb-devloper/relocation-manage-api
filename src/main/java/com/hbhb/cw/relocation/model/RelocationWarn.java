@@ -26,7 +26,7 @@ public class RelocationWarn {
 
     private BigDecimal anticipatePayment;
 
-    private Byte isReceived;
+    private Boolean isReceived;
 
     private BigDecimal finalPayment;
 
