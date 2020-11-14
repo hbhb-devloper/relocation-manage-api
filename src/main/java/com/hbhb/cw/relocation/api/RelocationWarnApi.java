@@ -10,5 +10,5 @@ public interface RelocationWarnApi {
     void addWarn();
 
     @GetMapping("/count")
-    Integer getWarnCount(@RequestParam("unitId") Integer unitId);
+    int getWarnCount(@RequestParam("unitId") Integer unitId);
 }
